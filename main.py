@@ -1,3 +1,6 @@
+# Diyachkov Mikhail 336426176
+# Arkadi Yakubov 208064162
+
 import sympy as sp
 from sympy.utilities.lambdify import lambdify
 from math import exp, log, ceil
